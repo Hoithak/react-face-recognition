@@ -8,7 +8,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
                 {'This Magic Brain will detect faces in your pictures.'}
             </p>
             <p>
-                {'https://samples.clarifai.com/metro-north.jpg'}
+                {'https://i0.wp.com/boingboing.net/wp-content/uploads/2015/08/combo1.jpg'}
             </p>
             <p>
                 {'https://i.stack.imgur.com/bfZUt.jpg'}
